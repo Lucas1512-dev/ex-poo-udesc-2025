@@ -8,7 +8,7 @@ public class TesteLivro {
         livro.titulo = "Harry Potter";
         livro.autor = "J.K. Rowling";
         livro.genero = "Fantasia";
-        livro.emprestado = "Sim";
+        livro.emprestado = true;
 
         System.out.println("Título: " + livro.titulo);
         System.out.println("Autor: " + livro.autor);
