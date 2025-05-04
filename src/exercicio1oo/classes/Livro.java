@@ -2,9 +2,9 @@ package exercicio1oo.classes;
 
 public class Livro      {
 
-    String titulo;
-    String autor;
-    String genero;
-    boolean emprestado;
+    public String titulo;
+    public String autor;
+    public String genero;
+    public boolean emprestado;
 
 }

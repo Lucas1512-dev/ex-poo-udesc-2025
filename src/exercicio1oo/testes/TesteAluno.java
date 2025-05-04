@@ -1,6 +1,9 @@
-package exercicio1oo.classes;
+package exercicio1oo.testes;
+
+import exercicio1oo.classes.Aluno;
 
 public class TesteAluno {
+
     public static void main(String[] args) {
         Aluno aluno = new Aluno();
         aluno.matricula = "12345";

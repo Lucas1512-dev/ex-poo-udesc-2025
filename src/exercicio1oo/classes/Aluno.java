@@ -2,12 +2,12 @@ package exercicio1oo.classes;
 
 public class Aluno {
 
-    String matricula;
-    String nome;
-    int idade;
-    int nota1;
-    int nota2;
-    int nota3;
-    int nota4;
+    public String matricula;
+    public String nome;
+    public int idade;
+    public int nota1;
+    public int nota2;
+    public int nota3;
+    public int nota4;
 
 }

@@ -1,4 +1,6 @@
-package exercicio1oo.classes;
+package exercicio1oo.testes;
+
+import exercicio1oo.classes.Circulo;
 
 public class TesteCirculo {
 
