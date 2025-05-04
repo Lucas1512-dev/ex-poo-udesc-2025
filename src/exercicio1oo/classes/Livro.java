@@ -1,4 +1,4 @@
-package exercicio1oo;
+package exercicio1oo.classes;
 
 public class Livro      {
 
