@@ -1,3 +1,5 @@
+package exercicio1oo;
+
 class Aluno {
         String matricula;
         String nome;
